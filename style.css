@@ -1,0 +1,28 @@
+html, body {
+    margin: 2%;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    width: 1024px;
+  }
+  .one{
+    width: 1024px;
+    background-color: burlywood;
+    
+  }
+  h1{
+    margin-left:41%;
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+
+  p{
+    line-height: 200%;
+  }
+
+  .picture
+  {
+    width: 300px;
+  }
